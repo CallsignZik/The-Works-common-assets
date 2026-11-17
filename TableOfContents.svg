@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1200"
+   width="2000"
    height="200"
-   viewBox="0 0 317.49999 52.916665"
+   viewBox="0 0 529.16665 52.916665"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -28,14 +28,14 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="0.73512619"
-     inkscape:cx="521.67915"
-     inkscape:cy="-72.776621"
+     inkscape:cx="668.59269"
+     inkscape:cy="95.901902"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer4" />
   <defs
      id="defs1">
     <inkscape:path-effect
@@ -192,7 +192,7 @@
        gradientTransform="matrix(0.71860262,0.69542094,-1.1573984,1.19598,788.67333,-696.86863)"
        gradientUnits="userSpaceOnUse" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter18"
        x="-0.0064995502"
@@ -230,12 +230,12 @@
          id="feComposite18" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter20"
-       x="-0.0045948956"
+       x="-0.0027856138"
        y="-0.032181763"
-       width="1.0134975"
+       width="1.0081827"
        height="1.0945339">
       <feFlood
          result="flood"
@@ -291,7 +291,7 @@
       <path
          id="mask-powermask-path-effect21_box"
          style="fill:#ffffff;fill-opacity:1"
-         d="M -2.4780875,-2.4589672 H 321.32674 V 49.161966 H -2.4780875 Z" />
+         d="M -3.4257001,-2.4589672 H 529.39433 V 49.161966 H -3.4257001 Z" />
       <rect
          style="display:inline;opacity:0.1;fill:url(#pattern21);stroke:none;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15;stroke-opacity:1"
          id="rect21"
@@ -319,12 +319,12 @@
          in="fbSourceGraphic" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter24"
-       x="-0.037847021"
-       y="-0.037844987"
-       width="1.1111756"
+       x="-0.03784702"
+       y="-0.037844986"
+       width="1.1111757"
        height="1.1111696">
       <feFlood
          result="flood"
@@ -357,7 +357,7 @@
          id="feComposite24" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter26"
        x="-0.060039952"
@@ -406,7 +406,7 @@
          y="0" />
     </mask>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter32"
        x="-0.042726382"
@@ -455,14 +455,14 @@
       <rect
          style="opacity:1;fill:url(#radialGradient9);stroke-width:3.04046;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15"
          id="rect1"
-         width="313.72089"
-         height="41.807034"
+         width="519.95221"
+         height="41.807186"
          x="1.8895565"
          y="1.6196198" />
       <rect
          style="opacity:0.102;mix-blend-mode:soft-light;fill:url(#pattern15);stroke:none;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15;stroke-opacity:1"
          id="rect11"
-         width="313.72064"
+         width="519.95221"
          height="41.807186"
          x="1.8895565"
          y="1.6196198" />
@@ -476,8 +476,9 @@
       <path
          id="rect1-4"
          style="fill:url(#radialGradient11);fill-opacity:1;stroke-width:199.57;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15;filter:url(#filter20)"
-         d="M -0.01912028,0 V 45.335217 H 317.5 V 0 Z M 1.8898071,1.6195394 H 44.359566 V 43.426807 H 1.8898071 Z m 44.3595659,0 H 315.61019 V 43.426807 H 46.249373 Z"
-         inkscape:original-d="M -0.01912028,0 V 45.335217 H 317.5 V 0 Z M 1.8898071,1.6195394 H 44.359566 V 43.426807 H 1.8898071 Z m 44.3595659,0 H 315.61019 V 43.426807 H 46.249373 Z" />
+         d="m -0.01912028,0 v 45.335217 l 523.75072028,0 V 0 Z M 1.8898071,1.6195394 H 44.359566 V 43.426807 H 1.8898071 Z m 44.3595659,0 475.592417,0 V 43.426807 l -475.592417,0 z"
+         inkscape:original-d="m -0.01912028,0 v 45.335217 l 523.75072028,0 V 0 Z M 1.8898071,1.6195394 H 44.359566 V 43.426807 H 1.8898071 Z m 44.3595659,0 475.592417,0 V 43.426807 l -475.592417,0 z"
+         sodipodi:nodetypes="ccccccccccccccc" />
       <text
          xml:space="preserve"
          style="font-size:31.693px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:start;letter-spacing:-0.967803px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.4517;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15;filter:url(#filter18)"
@@ -493,9 +494,9 @@
            id="tspan2">Table of contents</tspan></text>
       <path
          id="rect27"
-         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:round;stroke-miterlimit:15;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1;filter:url(#filter32)"
+         style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;stroke-linecap:round;stroke-miterlimit:15;filter:url(#filter32);enable-background:accumulate;stop-color:#000000;stop-opacity:1"
          d="M 6.4042603,6.3143433 V 22.714893 39.113375 H 23.476603 40.551013 V 22.714893 6.3143433 H 23.476603 Z M 9.4040771,9.3146769 H 21.976436 V 21.214726 H 9.4040771 Z m 15.5726929,0 H 37.55068 V 21.214726 H 24.97677 Z M 9.4040771,24.215059 H 21.976436 V 36.113041 H 9.4040771 Z m 15.5726929,0 H 37.55068 V 36.113041 H 24.97677 Z"
-         inkscape:original-d="M 6.4042603 6.3143433 L 6.4042603 22.714893 L 6.4042603 39.113375 L 23.476603 39.113375 L 40.551013 39.113375 L 40.551013 22.714893 L 40.551013 6.3143433 L 23.476603 6.3143433 L 6.4042603 6.3143433 z M 9.4040771 9.3146769 L 21.976436 9.3146769 L 21.976436 21.214726 L 9.4040771 21.214726 L 9.4040771 9.3146769 z M 24.97677 9.3146769 L 37.55068 9.3146769 L 37.55068 21.214726 L 24.97677 21.214726 L 24.97677 9.3146769 z M 9.4040771 24.215059 L 21.976436 24.215059 L 21.976436 36.113041 L 9.4040771 36.113041 L 9.4040771 24.215059 z M 24.97677 24.215059 L 37.55068 24.215059 L 37.55068 36.113041 L 24.97677 36.113041 L 24.97677 24.215059 z " />
+         inkscape:original-d="M 6.4042603,6.3143433 V 22.714893 39.113375 H 23.476603 40.551013 V 22.714893 6.3143433 H 23.476603 Z M 9.4040771,9.3146769 H 21.976436 V 21.214726 H 9.4040771 Z m 15.5726929,0 H 37.55068 V 21.214726 H 24.97677 Z M 9.4040771,24.215059 H 21.976436 V 36.113041 H 9.4040771 Z m 15.5726929,0 H 37.55068 V 36.113041 H 24.97677 Z" />
     </g>
   </g>
 </svg>

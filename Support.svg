@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5198127"
-     inkscape:cx="1041.7214"
-     inkscape:cy="164.48232"
+     inkscape:zoom="2.0792508"
+     inkscape:cx="338.34302"
+     inkscape:cy="81.519747"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -405,6 +405,44 @@
          x="35.523636"
          y="0" />
     </mask>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2"
+       x="-0.074187168"
+       y="-0.040253104"
+       width="1.2179248"
+       height="1.1182435">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood1" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.607903"
+         id="feGaussianBlur1" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="1.367781"
+         dy="1.367781"
+         id="feOffset1" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite1" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite2" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -456,7 +494,7 @@
            id="tspan2">Support us</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:41.0561px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:-2.34606px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.32513;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:15;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:41.0561px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:center;letter-spacing:-2.34606px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.32513;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:15;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2)"
          x="22.972124"
          y="37.193432"
          id="text30"><tspan
